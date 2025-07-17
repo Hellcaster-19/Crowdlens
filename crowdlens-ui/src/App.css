@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #e6b676; /* light orange background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: #ec8f2d; /* darker orange card */
+  padding: 2rem;
+  border-radius: 20px;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #202020;
+  margin-bottom: 1rem;
+}
+
+.capture-box {
+  background-color: #fcefd8;
+  height: 120px;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: #a640b9;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0.6rem 0;
+  transition: background-color 0.3s ease;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button:hover {
+  background-color: #912aa4;
+}
+
+.emotion-text {
+  font-size: 1rem;
+  margin: 0.8rem 0;
+  color: #333;
+}
