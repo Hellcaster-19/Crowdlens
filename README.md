@@ -1,4 +1,5 @@
-CrowdLens  
+**CROWDLENS**
+
 **AI-powered Emotion Detection via Real-Time Webcam Capture**
 
 CrowdLens is an intelligent full-stack application that captures facial expressions through a user's webcam and detects their dominant emotion using deep learning. Built with a strong design focus and responsive architecture, it showcases seamless integration between a modern frontend and a machine learning-powered backend.
